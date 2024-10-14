@@ -74,7 +74,7 @@ Le fait d'indiquer que votre ressource est censée respecter un schéma permet d
 
 ![Capture d'écran de data.gouv.fr des informations disponibles sur la page d'un jeu de données lorsqu'un schéma est spécifié sur une ressource](./images/modal-schema.png)
 
-D'autres solutions en dehors de data.gouv.fr existent. Des solutions disponibles en anglais comme [goodtables.io](http://goodtables.io) ou [CSV Lint](https://csvlint.io/) proposent des validateurs de jeux de données. Enfin, il est possible d’intégrer une fonction de validation d’un jeu directement dans la procédure de publication. C’est le cas pour les données d’adresses locales qui font l’objet d’une validation directement sur le site [adresse.data.gouv.fr](https://adresse.data.gouv.fr).
+D'autres solutions en dehors de data.gouv.fr existent. Des solutions disponibles en anglais comme [extendsclass.com](https://extendsclass.com/csv-validator.html) ou [CSV Lint](https://csvlint.io/) proposent des validateurs de jeux de données. Enfin, il est possible d’intégrer une fonction de validation d’un jeu directement dans la procédure de publication. C’est le cas pour les données d’adresses locales qui font l’objet d’une validation directement sur le site [adresse.data.gouv.fr](https://adresse.data.gouv.fr).
 
 ### Cas 2 - La structure de vos données ne correspond à aucun schéma de données existant
 
